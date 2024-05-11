@@ -1,7 +1,8 @@
 # Software-Development-University-progress-outcome
 
 This is a coursework for python programming in my Second year and it was really fun one!
-The code available- code -python progression outcomne
+
+The code available- w1840439.py
 
 Coursework BRIEF (UNIVERSITY OF WESTMINSTER)
 
