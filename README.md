@@ -1,6 +1,6 @@
 # Software-Development-University-progress-outcome
 
-This is a coursework for python programming in my Second year and it was really fun one!
+This is a coursework for python programming in my Second year and it was really fun one!  We have been given a table with progess outcomes of different combination scores at pass, defer and fail levels for a particular module along with some multiple outcomes, validations requirements and other components to make the software interactive. 
 
 The code available- w1840439.py
 
@@ -151,43 +151,87 @@ continue shown in the example is optional and depends on your program structure.
 
 
 Example Output: 
+
 Enter your total PASS credits: 120 
+
 Enter your total DEFER credits: 0 
+
 Enter your total FAIL credits: 0 
+
 Progress 
+
+
 Would you like to enter another set of data? 
+
 Enter 'y' for yes or 'q' to quit and view results: y 
+
 Enter your total PASS credits: 100 
+
 Enter your total DEFER credits: 0 
+
 Enter your total FAIL credits: 20 
+
 Progress (module trailer) 
+
+
 Would you like to enter another set of data? 
+
 Enter 'y' for yes or 'q' to quit and view results: y      
+
 Enter your total PASS credits: 80 
+
 Enter your total DEFER credits: 20 
+
 Enter your total FAIL credits: 20 
+
 Module retriever 
+
+
 Would you like to enter another set of data? 
+
 Enter 'y' for yes or 'q' to quit and view results: y 
+
 Enter your total PASS credits: 60 
+
 Enter your total DEFER credits: 0 
+
 Enter your total FAIL credits: 60 
+
 Module retriever 
+
+
 Would you like to enter another set of data? 
+
 Enter 'y' for yes or 'q' to quit and view results: y 
+
 Enter your total PASS credits: 40 
+
 Enter your total DEFER credits: 0 
+
 Enter your total FAIL credits: 80 
+
 Exclude 
+
+
 Would you like to enter another set of data? 
+
 Enter 'y' for yes or 'q' to quit and view results: q --------------------------------------------------------------- 
+
 Histogram 
+
 Progress 1  : * 
+
 Trailer 1   : * 
+
 Retriever 2 : ** 
+
 Excluded 1  : * 
+
 5 outcomes in total. ---------------------------------------------------------------- 
+
 • Submit the completed part 1 test plan provided with your final part 1 solution.  
+
+
 
 
 
