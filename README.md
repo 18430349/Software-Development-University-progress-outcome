@@ -9,7 +9,9 @@ Coursework BRIEF (UNIVERSITY OF WESTMINSTER)
 The University requires a program to predict progression outcomes at the end of each academic year. You should write this program in Python using the data shown in Table 1. 
  
  Volume of Credit at Each Level  Progression Outcome 
+ 
  Pass Defer Fail 
+ 
  1 120 0 0 Progress 
  2 100 20 0 Progress (module trailer) 
  3 100 0 20 Progress (module trailer) 
