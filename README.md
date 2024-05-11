@@ -73,48 +73,71 @@ Table 1: Progression outcomes as defined by the University regulations.
 
 Part 1 - Main Version 
 A. Outcomes (28 marks) 
+
 • The program should allow students to predict their progression outcome at the end of each 
 academic year. The program should prompt for the number of credits at pass, defer and fail 
 and then display the appropriate progression outcome for an individual student (i.e., 
 progress, trailing, module retriever or exclude). 
 
 B. Validation (12 marks) 
+
 • The program should display ‘Integer required’ if a credit input is the wrong data type.  
+
 • The program should display ‘Out of range’ if credits entered are not in the range 0, 20, 40, 
 60, 80, 100 and 120. 
+
 • The program should display ‘Total incorrect’ if the total of the pass, defer and fail credits is 
 not 120. 
+
 • A few marks will be allocated for the efficient use of conditional statements.  For example, 
 the program does not need 28 conditional statements for 28 outcomes. 
+
 • An example of the program running with user input (shown in bold): 
+
 Please enter your credits at pass: p 
+
 Integer required 
+
 Please enter your credits at pass: 140 
+
 Out of range.  
+
 Please enter your credits at pass: 100 
+
 Please enter your credit at defer: 40 
+
 Please enter your credit at fail: 20 
+
 Total incorrect. 
+
 Please enter your credits at pass: 100 
+
 Please enter your credit at defer: 20 
+
 Please enter your credit at fail: 0 
+
 Progress (module trailer) 
 
 C. Multiple Outcomes (12 marks) 
-• The program loops to allow a staff member to predict progression outcomes for multiple 
-students. 
+
+• The program loops to allow a staff member to predict progression outcomes for multiple students. 
+
 • The program should prompt for credits at pass, defer and fail and display the appropriate 
 progression for each individual student until the staff member enters ‘q’ to quit.  Optionally 
 you can use an input of ‘y’ to continue. 
+
 • See example of program run combined with Histogram below. 
 
 D. Histogram (8 marks) 
+
 • When ‘q’ is entered, the program should produce a ‘histogram’ where each star represents a 
 student who achieved a progress outcome in the category range: progress, trailing, module 
 retriever and exclude. The histogram should relate to the data input entered during the 
 program run and work for any number of outcomes. 
+
 • Display the number of students for each progression category and the total number of 
 students. 
+
 • Example of a program run and input (in bold). Note: program should exit on ‘q’ to quit.  ‘y’ to 
 continue shown in the example is optional and depends on your program structure. 
 
