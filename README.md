@@ -71,6 +71,7 @@ The University requires a program to predict progression outcomes at the end of 
 
 Table 1: Progression outcomes as defined by the University regulations. 
 
+
 Part 1 - Main Version 
 A. Outcomes (28 marks) 
 
@@ -78,6 +79,8 @@ A. Outcomes (28 marks)
 academic year. The program should prompt for the number of credits at pass, defer and fail 
 and then display the appropriate progression outcome for an individual student (i.e., 
 progress, trailing, module retriever or exclude). 
+
+
 
 B. Validation (12 marks) 
 
@@ -118,6 +121,9 @@ Please enter your credit at fail: 0
 
 Progress (module trailer) 
 
+
+
+
 C. Multiple Outcomes (12 marks) 
 
 • The program loops to allow a staff member to predict progression outcomes for multiple students. 
@@ -127,6 +133,8 @@ progression for each individual student until the staff member enters ‘q’ to
 you can use an input of ‘y’ to continue. 
 
 • See example of program run combined with Histogram below. 
+
+
 
 D. Histogram (8 marks) 
 
@@ -180,6 +188,7 @@ Retriever 2 : **
 Excluded 1  : * 
 5 outcomes in total. ---------------------------------------------------------------- 
 • Submit the completed part 1 test plan provided with your final part 1 solution.  
+
 
 
 
